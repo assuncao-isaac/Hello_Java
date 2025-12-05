@@ -1,6 +1,3 @@
 # Olá mundo
-primeiro repositório do curso de git e git hub
+Este é meu repositorio de Java, aqui listo minha evolução, lista de exercicios e projetos próprios.
 
-repositorio criado durante a primeira aula
-
-essa linha eu adicionei diretamente do git hub
