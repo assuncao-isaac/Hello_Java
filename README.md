@@ -1,93 +1,97 @@
-☕ Lista de Estudos em Java
+<h1 align="center">☕ Lista de Estudos em Java</h1>
 
-Bem-vindo(a) ao meu repositório de estudos em Java! 🚀
+<p align="center">
+  <b>Repositório dedicado a estudos de Lógica de Programação e Programação Orientada a Objetos (POO)</b>
+</p>
 
-Aqui você encontrará uma coleção de exercícios, desafios e projetos desenvolvidos com foco em:
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Estudos-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Status-Em%20Andamento-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Lógica%20e%20POO-success?style=for-the-badge" />
+</p>
 
-🧠 Lógica de Programação
+<hr>
 
-🏗️ Programação Orientada a Objetos (POO)
+<h2>📌 Sobre o Repositório</h2>
 
-🔎 Conceitos fundamentais da linguagem Java
+<p>
+Este repositório contém uma <b>lista progressiva de exercícios em Java</b>, com foco no fortalecimento da base em programação.
+Aqui você encontrará práticas envolvendo:
+</p>
 
-📚 Estruturas de dados básicas
+<ul>
+  <li>🧠 Lógica de Programação</li>
+  <li>🏗️ Programação Orientada a Objetos (POO)</li>
+  <li>📚 Estruturas de Dados básicas</li>
+  <li>🔎 Conceitos fundamentais da linguagem Java</li>
+  <li>🧩 Resolução de Problemas</li>
+  <li>💡 Boas práticas de código</li>
+</ul>
 
-🧩 Resolução de problemas
+<hr>
 
-💡 Boas práticas de organização de código
+<h2>📄 Lista de Desafios</h2>
 
-📌 Sobre o Repositório
+<p>
+A lista completa de exercícios de lógica de programação pode ser acessada no link abaixo:
+</p>
 
-Este repositório contém uma lista progressiva de exercícios que reforçam:
+<p align="center">
+  <a href="Lista_Java/Lista_logica_de_programacao.pdf">
+    <img src="https://img.shields.io/badge/Acessar-Lista%20de%20Desafios-red?style=for-the-badge" />
+  </a>
+</p>
 
-Variáveis e tipos de dados
+<hr>
 
-Estruturas condicionais
+<h2>📚 Desafio Principal: Sistema de Biblioteca</h2>
 
-Estruturas de repetição
+<p>
+Um dos principais desafios deste repositório é o desenvolvimento de um 
+<b>Sistema de Biblioteca</b>, aplicando os conhecimentos adquiridos na lista.
+</p>
 
-Métodos
+<h3>🎯 Objetivo</h3>
 
-Classes e objetos
+<p>
+Criar um sistema que simule o funcionamento básico de uma biblioteca utilizando os princípios da POO.
+</p>
 
-Encapsulamento
+<h3>🛠️ Conceitos Aplicados</h3>
 
-Herança
+<ul>
+  <li>Criação de classes (<code>Livro</code>, <code>Usuario</code>, <code>Biblioteca</code>)</li>
+  <li>Encapsulamento</li>
+  <li>Organização de responsabilidades</li>
+  <li>Manipulação de listas</li>
+  <li>Métodos para:
+    <ul>
+      <li>📖 Cadastrar livros</li>
+      <li>👤 Cadastrar usuários</li>
+      <li>🔄 Realizar empréstimos</li>
+      <li>✅ Registrar devoluções</li>
+    </ul>
+  </li>
+</ul>
 
-Polimorfismo
+<hr>
 
-O objetivo é consolidar a base da programação e evoluir para aplicações mais estruturadas.
+<h2>🚀 Evolução Contínua</h2>
 
-📄 Lista de Desafios
-
-Você pode acessar a lista completa de exercícios de lógica de programação aqui:
-
-👉 Acessar Lista de Lógica de Programação
-
-📚 Desafio Especial: Sistema de Biblioteca
-
-Um dos principais desafios deste repositório é o desenvolvimento de um Sistema de Biblioteca, aplicando os conhecimentos adquiridos na lista.
-
-🎯 Objetivo
-
-Criar um sistema que simule o funcionamento básico de uma biblioteca, utilizando os princípios da POO.
-
-🛠️ Conceitos aplicados
-
-Criação de classes (Livro, Usuário, Biblioteca)
-
-Encapsulamento
-
-Métodos para:
-
-📖 Cadastrar livros
-
-👤 Cadastrar usuários
-
-🔄 Realizar empréstimos
-
-✅ Registrar devoluções
-
-Organização e separação de responsabilidades
-
-Manipulação de listas
-
-💡 Finalidade do desafio
-
-Este projeto tem como foco:
-
-Consolidar o raciocínio lógico
-
-Aplicar orientação a objetos na prática
-
-Simular um problema real
-
-Desenvolver organização e clareza no código
-
-🚀 Evolução Contínua
-
+<p>
 Este repositório está em constante atualização conforme avanço nos estudos e aprimoro meus conhecimentos em Java.
+</p>
 
-👨‍💻 Autor
+<hr>
+
+<h2>👨‍💻 Autor</h2>
+
+<p>
+Desenvolvido com dedicação para evolução técnica e fortalecimento da base em desenvolvimento back-end com Java.
+</p>
+
+<p align="center">
+  ⭐ Se você gostou do projeto, considere deixar uma estrela!
+</p>
 
 Desenvolvido com dedicação para aprimoramento técnico e evolução constante na área de desenvolvimento back-end com Java.
